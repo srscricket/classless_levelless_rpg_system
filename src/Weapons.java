@@ -1,4 +1,7 @@
 
-public class Weapons {
-
+public class Weapons 
+{
+	String damageType;
+	int damage;
+	
 }
